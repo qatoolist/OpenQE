@@ -7,7 +7,7 @@ Some of they expose their best practices to the world in form of blogs, vlogs, t
 
 Some of they wish to contribute their ideas with the community, however sometimes due to lack of resources, lack of confidence, lack of inspiration they are unable to contribute their ideas.  
 
-"Open QE Book" by QE's for QE's is an Opensource Book project which aims towards providing a platform to everyone to share their thoughts, ideas, best practices, and anything and everything which can help the entire community to solve the variety of challenges or to develop a QE best practices and vision.
+**"Open QE Book" by QE's for QE's** is an Opensource Book project which aims towards providing a platform to everyone to share their thoughts, ideas, best practices, and anything and everything which can help the entire community to solve the variety of challenges or to develop a QE best practices and vision.
 
 Book Contents -
 #TBD
